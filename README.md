@@ -1,7 +1,8 @@
+## AFK RULES
 
-# Project Title
+Send a sound and alert message, so that the CT realizes that there is a user who wants the rules after being AFK.
 
-A brief description of what this project does and who it's for
+[![twitter](https://media.tenor.com/QWjjeeaoAd0AAAAM/hello-hola.gif)](https://twitter.com/)
 
 ## Commands
 
@@ -10,6 +11,21 @@ A brief description of what this project does and who it's for
 | sm_afkrules | Command to indicate to the CT's AFK Rules |
 | sm_afkr | Shorter command to indicate to the CT's AFK Rules  |
 
+
+
+## Restrictions
+
+- The CT cannot use the command
+
+- The command cannot be used if you are dead
+
+- The command cannot be used if you are a spectator
+
+- The command cannot be used in warm-up
+
+- You can only use the command once per round
+
+- Has a 20 second cooldown to prevent spam for all users
 
 ## Authors
 
