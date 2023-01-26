@@ -44,5 +44,5 @@ Send a sound and alert message, so that the CT realizes that there is a user who
 
 ## Links
 
-<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
+<a href=”https://www.linkedin.com/in/yushi95/"><img align=”center” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
 
