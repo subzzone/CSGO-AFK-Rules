@@ -1,7 +1,6 @@
 <h1 align="center">
  <img src="https://i.imgur.com/OxV2oUa.jpeg" />
 <br>
- <a href=”https://www.linkedin.com/in/yushi95/"><img align=”center” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
 </h1>
 
 ## Description
@@ -45,5 +44,6 @@ Send a sound and alert message, so that the CT realizes that there is a user who
 
 ## Links
 
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 
 
