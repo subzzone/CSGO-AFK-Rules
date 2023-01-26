@@ -4,52 +4,6 @@
     <strong>SourcePawn highlighting and autocompletion for Visual Studio Code. Supports the SourceMod old and new syntax.
     </strong>
   </p>
-  <p style="margin-bottom: 0.5ex;">
-    <a href="https://github.com/Sarrus1/sourcepawn-vscode/releases/">
-      <img
-        src="https://img.shields.io/visual-studio-marketplace/v/Sarrus.sourcepawn-vscode?include_prereleases"
-        />
-    </a>
-    <a href="https://github.com/Sarrus1/sourcepawn-vscode/releases/latest">
-      <img
-        src="https://img.shields.io/visual-studio-marketplace/i/Sarrus.sourcepawn-vscode"
-        />
-    </a>
-    <a href="https://github.com/Sarrus1/sourcepawn-vscode/releases/latest">
-      <img
-        src="https://img.shields.io/visual-studio-marketplace/d/Sarrus.sourcepawn-vscode"
-        />
-    </a>
-    <a href="https://marketplace.visualstudio.com/items?itemName=Sarrus.sourcepawn-vscode&ssr=false#review-details">
-      <img
-        src="https://img.shields.io/visual-studio-marketplace/r/Sarrus.sourcepawn-vscode"
-        />
-    </a>
-    <img
-      src="https://img.shields.io/github/last-commit/Sarrus1/sourcepawn-vscode"
-      />
-    <a href="https://github.com/Sarrus1/sourcepawn-vscode/issues">
-      <img
-        src="https://img.shields.io/github/issues/Sarrus1/sourcepawn-vscode"
-        />
-    </a>
-    <a href="https://github.com/Sarrus1/sourcepawn-vscode/issues?q=is%3Aissue+is%3Aclosed">
-      <img
-        src="https://img.shields.io/github/issues-closed/Sarrus1/sourcepawn-vscode"
-        />
-    </a>
-    <img
-      src="https://www.codefactor.io/repository/github/Sarrus1/sourcepawn-vscode/badge"
-      />
-    <img
-      src="https://img.shields.io/github/actions/workflow/status/Sarrus1/sourcepawn-vscode/release.yml?branch=master"
-      />
-    <a href="https://codecov.io/gh/Sarrus1/sourcepawn-vscode">
-      <img
-        src="https://codecov.io/gh/Sarrus1/sourcepawn-vscode/branch/master/graph/badge.svg"
-        />
-    </a>
-  </p>
 </div>
 
 ![Example](https://raw.githubusercontent.com/Sarrus1/sourcepawn-vscode/master/images/example.gif)
