@@ -40,6 +40,12 @@ Send a sound and alert message, so that the CT realizes that there is a user who
 [![AFK-RULES STATS](https://github-readme-stats.vercel.app/api?username=subzzone&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/subzzone/AFK-Rules#gh-dark-mode-only)
 
 
+## Links
+
+- Alliedmodders: https://forums.alliedmods.net/member.php?u=310879
+- Steam: https://steamcommunity.com/id/alexelmanco/
+- Twitter: https://twitter.com/55Guenfoudi
+
 
 
 
