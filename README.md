@@ -35,9 +35,9 @@ Send a sound and alert message, so that the CT realizes that there is a user who
 - Creator: [@subzzone](https://github.com/subzzone)
 - Helper: [@JoanJuan10](https://github.com/JoanJuan10)
 
-## Stat
+## Stats
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/subzzone/AFK-Rules#gh-dark-mode-only)
+[![AFK-RULES STATS](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/subzzone/AFK-Rules#gh-dark-mode-only)
 
 
 
