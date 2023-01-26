@@ -42,12 +42,7 @@ Send a sound and alert message, so that the CT realizes that there is a user who
 
 
 
-## Links
 
-![](https://forums.alliedmods.net/favicon.ico?style=flat&logo=react&color=61DAFB)
-![](https://cdn.iconscout.com/icon/free/png-512/social-147-95508.png?w=50&f=avif?style=flat&logo=react&color=61DAFB)
-![](https://steamcommunity.com/favicon.ico?style=flat&logo=react&color=61DAFB&width=5&w=5)
-![](https://twitter.com/favicon.ico?style=flat&logo=react&color=61DAFB&w=5)
 
 
 
