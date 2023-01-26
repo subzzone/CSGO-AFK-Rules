@@ -1,8 +1,8 @@
-
+<p align="center">
 # Project Title
 
 A brief description of what this project does and who it's for
-
+</p>
 ## Commands
 
 | Command          | Definition                                                             |
