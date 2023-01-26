@@ -37,7 +37,7 @@ Send a sound and alert message, so that the CT realizes that there is a user who
 
 ## Stat
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/subzzone/AFK-Rules#gh-dark-mode-only)
 
 
 
