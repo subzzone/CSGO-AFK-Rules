@@ -35,12 +35,14 @@ Send a sound and alert message, so the CT realizes that there is a user who want
 - Creator: [@subzzone](https://github.com/subzzone)
 - Helper: [@JoanJuan10](https://github.com/JoanJuan10)
 
+## Alliedmodders
+https://forums.alliedmods.net/showthread.php?t=341497
+
 ## Links
 
 - Alliedmodders: https://forums.alliedmods.net/member.php?u=310879
 - Steam: https://steamcommunity.com/id/alexelmanco/
 - Twitter: https://twitter.com/55Guenfoudi
-
 
 
 
