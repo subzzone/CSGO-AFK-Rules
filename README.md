@@ -1,8 +1,6 @@
-## AFK RULES
-
-Send a sound and alert message, so that the CT realizes that there is a user who wants the rules after being AFK.
-
-[![twitter](https://media.tenor.com/QWjjeeaoAd0AAAAM/hello-hola.gif)](https://twitter.com/)
+<h1 align="center">
+ <img src="https://imgur.com/OxV2oUa" />
+</h1>
 
 ## Commands
 
