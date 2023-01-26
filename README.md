@@ -35,6 +35,12 @@ Send a sound and alert message, so that the CT realizes that there is a user who
 - Creator: [@subzzone](https://github.com/subzzone)
 - Helper: [@JoanJuan10](https://github.com/JoanJuan10)
 
+## Stat
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+
+
 
 ## Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
