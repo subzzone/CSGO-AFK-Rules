@@ -5,7 +5,7 @@
 
 ## Description
 
-Send a sound and alert message, so that the CT realizes that there is a user who wants the rules after being AFK.
+Send a sound and alert message, so the CT realizes that there is a user who wants the rules after being AFK.
 
 ## Commands
 
