@@ -44,6 +44,6 @@ Send a sound and alert message, so that the CT realizes that there is a user who
 
 ## Links
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+![](https://forums.alliedmods.net/favicon.ico?style=flat&logo=react&color=61DAFB)
 
 
