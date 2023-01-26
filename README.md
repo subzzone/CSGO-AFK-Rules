@@ -47,7 +47,7 @@ Send a sound and alert message, so that the CT realizes that there is a user who
 ![](https://forums.alliedmods.net/favicon.ico?style=flat&logo=react&color=61DAFB)
 ![](https://github.com/favicon.ico?style=flat&logo=react&color=61DAFB)
 ![](https://steamcommunity.com/favicon.ico?style=flat&logo=react&color=61DAFB)
-![](https://twitter.com/favicon.ico?style=flat&logo=react&color=61DAFB)
+![](https://twitter.com/favicon.ico?style=flat&logo=react&color=61DAFB&width:10px$height:10px)
 
 
 
