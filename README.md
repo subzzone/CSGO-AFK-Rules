@@ -18,7 +18,7 @@ Whenever a player joins or leaves, a message will be displayed indicating their 
 - If it's a bot, it will be indicated in the message.
 - Bright colors when connecting and disconnecting.
 - Display the name of the user who disconnects.
-- 
+
 ## Images
 
 NULL
