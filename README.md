@@ -23,6 +23,7 @@ Whenever a player joins or leaves, a message will be displayed indicating their 
 
 <h1 align="center">
  <img src="https://i.imgur.com/lERZ90S.png" />
+ <img src="https://i.imgur.com/lERZ90S.png" />
 <br>
 </h1>
 
