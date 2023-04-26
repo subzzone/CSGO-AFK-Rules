@@ -9,9 +9,9 @@ Whenever a player joins or leaves, a message will be displayed indicating their 
 
 ## Installation
 
-- Drag the **csgo** folder into the server directory.
-- Go to the csgo/cfg folder.
-- Insert **script_reload_code connect-message** into the listenserver.cfg and server.cfg files.
+- Drag the ***csgo*** folder into the server directory.
+- Go to the ***csgo/cfg*** folder.
+- Insert ***script_reload_code connect-message*** into the listenserver.cfg and server.cfg files.
 
 ## Details
 
