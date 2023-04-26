@@ -21,7 +21,11 @@ Whenever a player joins or leaves, a message will be displayed indicating their 
 
 ## Images
 
-NULL
+<h1 align="center">
+ <img src="https://i.imgur.com/lERZ90S.png" />
+<br>
+</h1>
+
 
 ## Authors
 
