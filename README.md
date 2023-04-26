@@ -1,40 +1,43 @@
 <h1 align="center">
- <img src="https://i.imgur.com/Dms5orM.jpeg" />
+ <img src="https://i.imgur.com/OxV2oUa.jpeg" />
 <br>
 </h1>
 
 ## Description
 
-Whenever a player joins or leaves, a message will be displayed indicating their arrival or departure.
+Send a sound and alert message, so that the CT realizes that there is a user who wants the rules after being AFK.
 
-## Installation
+## Commands
 
-- Drag the ***csgo*** folder into the server directory.
-- Go to the ***csgo/cfg*** folder.
-- Insert ***script_reload_code connect-message*** into the listenserver.cfg and server.cfg files.
+| Command          | Definition                                                             |
+| ----------------- | ------------------------------------------------------------------ |
+| sm_afkrules | Command to indicate to the CT's AFK Rules |
+| sm_afkr | Shorter command to indicate to the CT's AFK Rules  |
 
-## Details
 
-- If it's a bot, it will be indicated in the message.
-- Bright colors when connecting and disconnecting.
-- Display the name of the user who disconnects.
 
-## Images
+## Restrictions
 
-<h1 align="center">
- <img src="https://i.imgur.com/lERZ90S.png" />
- <img src="https://i.imgur.com/lERZ90S.png" />
-<br>
-</h1>
+- The CT cannot use the command
 
+- The command cannot be used if you are dead
+
+- The command cannot be used if you are a spectator
+
+- The command cannot be used in warm-up
+
+- You can only use the command once per round
+
+- Has a 20 second cooldown to prevent spam for all users
 
 ## Authors
 
 - Creator: [@subzzone](https://github.com/subzzone)
+- Helper: [@JoanJuan10](https://github.com/JoanJuan10)
 
 ## Alliedmodders
 
-NULL
+https://forums.alliedmods.net/showthread.php?t=341497
 
 ## Links
 
