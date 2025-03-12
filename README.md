@@ -33,7 +33,6 @@ Send a sound and alert message, so that the CT realizes that there is a user who
 ## Authors
 
 - Creator: [@subzzone](https://github.com/subzzone)
-- Helper: [@JoanJuan10](https://github.com/JoanJuan10)
 
 ## Alliedmodders
 
